@@ -1,4 +1,6 @@
-
+this is the timer project 
+which have many feature like timer,digital clock , stopwatch , analog clock.
+stop watch have flag system.
 
 ![IMG-20240516-WA0009](https://github.com/jenilkhatrani/Flutter/assets/149984350/ca629c8e-1930-4175-9873-ffb6faa83974),
 ![IMG-20240516-WA0012](https://github.com/jenilkhatrani/Flutter/assets/149984350/6c5fdef4-c8ac-4a35-a708-bc4452f3ffb4)
